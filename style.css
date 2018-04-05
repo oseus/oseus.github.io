@@ -2,7 +2,8 @@
 .Top
   {
 margin-bottom: 10%;
-margin-left:70%;
+margin-left: auto;
+
   }
 header a{
   text-decoration:underline;
@@ -90,13 +91,14 @@ margin:0;}
   flex-direction: column;
   position: static;
   justify-content: center;
+
 }
 .button{
   padding:15px 0 25px 5px;
 	font:bold 25px;
   font-family: 'Noto Sans', sans-serif;
 	color:#555;
-	border-radius:2px;
+
   display: flex;
   justify-content: space-around;
 }
@@ -106,13 +108,13 @@ margin:0;}
 	font:bold 25px;
   font-family: 'Noto Sans', sans-serif;
 	color:#555;
-	border-radius:2px;
   display: flex;
   justify-content: space-around;
 }
 
 .xy{
   display: flex;
+
 }
 
 .formulaire{
@@ -147,9 +149,9 @@ hr {border: 0.5px solid #DCDCDC}
 
 #BB{
   position: fixed;
-  top: 50%;
-  left: 50%;
-font-size: 8px;}
+  top: 40%;
+  left: 30%;
+font-size: 2em;}
 
 .France{
   font-family: 'Noto Sans', sans-serif;

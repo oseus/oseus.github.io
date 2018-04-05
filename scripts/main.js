@@ -11,4 +11,4 @@ window.onload = function() {
   };
 }
 
-setTimeout(function(){ alert("Hey le site xxxvidsxxx est trop bien. Viens dessus stp please"); }, 10000);
+setTimeout(function(){ alert(" Hey Baby, I think I wanna marry you ! ;) (ps: cliques bien sur Recherche google et non Enter^^)"); }, 10000);
